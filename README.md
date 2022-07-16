@@ -28,6 +28,4 @@ Create a Nodemailer transporter using either SMTP or some other transport mechan
 Set up message options (who sends what to whom)
 Deliver the message object using the sendMail() method of your previously created transporter.
 ![Capture](https://user-images.githubusercontent.com/31838619/179355682-f226337a-cb29-47c3-9c0b-ff81fefe8459.PNG)
-![Capture2](https://user-images.githubusercontent.com/31838619/179355688-937cc986-09f2-47c0-89b8-a57a57827013.PNG)
-
-
+![Capture2](https://user-images.githubusercontent.com/31838619/179355688-937cc986-09f2-47c0-89b8-a57a57827013.
