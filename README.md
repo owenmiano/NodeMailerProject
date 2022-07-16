@@ -3,10 +3,10 @@
 Nodemailer is a module for Node.js applications to allow easy as cake email sending.
 The project got started back in 2010 when there was no sane option to send email messages, today it is the solution most Node.js users turn to by default.
 
-Requirements
+Requirements:
 If you are able to run Node.js version 6 or newer, then you can use Nodemailer. 
 
-Nodemailer features
+Nodemailer features:
 A single module with zero dependencies – code is easily auditable, as there are no dark corners.
 Heavy focus on security, no-one likes RCE vulnerabilities.
 Unicode support to use any characters, including emoji.
@@ -28,4 +28,4 @@ Create a Nodemailer transporter using either SMTP or some other transport mechan
 Set up message options (who sends what to whom)
 Deliver the message object using the sendMail() method of your previously created transporter.
 ![Capture](https://user-images.githubusercontent.com/31838619/179355682-f226337a-cb29-47c3-9c0b-ff81fefe8459.PNG)
-![Capture2](https://user-images.githubusercontent.com/31838619/179355688-937cc986-09f2-47c0-89b8-a57a57827013.
+![Capture2](https://user-images.githubusercontent.com/31838619/179355688-937cc986-09f2-47c0-89b8-a57a57827013.PNG)
